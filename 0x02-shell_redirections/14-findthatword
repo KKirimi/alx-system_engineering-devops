@@ -1,2 +1,2 @@
 #!/bin/bash
--count /etc/passwd
+grep ^route /etc/passwd
