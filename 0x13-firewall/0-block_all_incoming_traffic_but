@@ -7,9 +7,6 @@ sudo apt-get update
 # install UFW if not already installed
 sudo apt-get install ufw
 
-# enable UFW
-sudo ufw enable
-
 # set default policies
 sudo ufw default deny incoming
 
